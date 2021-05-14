@@ -1,13 +1,20 @@
 ---
 layout: default
-title: IMMERSE Log
+title: Work Log
 ---
-
-### Week 1: April 26, 2021
+### Week #: month day, year
 
 * **Monday**: 
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
+
+### Week 0: May 14, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: Site Created, Meeting
 
