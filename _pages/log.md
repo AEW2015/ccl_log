@@ -10,6 +10,25 @@ title: Work Log
 * **Thursday**: 
 * **Friday**:
 
+### Week 6: June 25, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Day off
+* **Tuesday**: L3, BAE, SiFive working with Intel
+* **Wednesday**: Day off
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark
+* 
+### Week 5: June 18, 2021
+
+Goals: Software benchmarks
+
+* **Monday**: Software benchmarks
+* **Tuesday**: L3
+* **Wednesday**: NEPP, Blue Origin
+* **Thursday**: L3
+* **Friday**: Software benchmarks
 ### Week 4: June 11, 2021
 
 Goals: Present at SHREC, and prepare SoCs benchmarking for Blue Origin
