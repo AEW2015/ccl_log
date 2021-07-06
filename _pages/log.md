@@ -10,6 +10,16 @@ title: Work Log
 * **Thursday**: 
 * **Friday**:
 
+### Week 7: July 2, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Working RISC-V Benchmarks
+* **Tuesday**: L3
+* **Wednesday**:  Working RISC-V Benchmarks, Blue Origin Meeting
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark
+
 ### Week 6: June 25, 2021
 
 Goals: Software benchmarks
@@ -19,7 +29,7 @@ Goals: Software benchmarks
 * **Wednesday**: Day off
 * **Thursday**: L3
 * **Friday**: Meeting, Rad Plan, Benchmark
-* 
+
 ### Week 5: June 18, 2021
 
 Goals: Software benchmarks
