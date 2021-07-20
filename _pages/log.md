@@ -10,6 +10,27 @@ title: Work Log
 * **Thursday**: 
 * **Friday**:
 
+### Week 9: July 16, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Taking care of Rachel
+* **Tuesday**: Taking care of Rachel
+* **Wednesday**:  Working RISC-V Benchmarks, Blue Origin Meeting
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark (VexRiscv)
+
+### Week 8: July 9, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Working RISC-V Benchmarks (Microblaze)
+* **Tuesday**: L3
+* **Wednesday**:  Working RISC-V Benchmarks (Microblaze)
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark (Microblaze)
+* **Saturday**: Rachel Was born
+* 
 ### Week 7: July 2, 2021
 
 Goals: Software benchmarks
