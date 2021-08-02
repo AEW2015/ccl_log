@@ -10,6 +10,26 @@ title: Work Log
 * **Thursday**: 
 * **Friday**:
 
+### Week 11: July 30, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Working RISC-V Benchmarks (MicroBlaze)
+* **Tuesday**: Taking care of Rachel
+* **Wednesday**:  Working RISC-V Benchmarks, Blue Origin Meeting
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark (NOELV)
+
+### Week 10: July 23, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Taking care of Rachel
+* **Tuesday**: L3
+* **Wednesday**: Working RISC-V Benchmarks (MicroBlaze)
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark (VexRiscv)
+
 ### Week 9: July 16, 2021
 
 Goals: Software benchmarks
