@@ -10,6 +10,57 @@ title: Work Log
 * **Thursday**: 
 * **Friday**:
 
+
+### Week 17: September 3, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  
+* **Tuesday**: L3
+* **Wednesday**:  Working RISC-V Benchmarks, Blue Origin Meeting
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark (NOELV)
+
+### Week 15: August 27, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Radiation testing
+* **Tuesday**: Radiation testing
+* **Wednesday**: Radiation testing
+* **Thursday**:  Radiation testing
+* **Friday**: Radiation testing
+
+### Week 14: August 20, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Radiation testing Prep
+* **Tuesday**: Radiation testing Prep
+* **Wednesday**:  Radiation testing Prep, Blue Origin Meeting
+* **Thursday**: Radiation testing Prep
+* **Friday**: Radiation testing Prep
+
+### Week 13: August 13, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:   Radiation testing Design Creation
+* **Tuesday**:  Radiation testing Design Creation
+* **Wednesday**:  Radiation testing Design Creation, Blue Origin Meeting
+* **Thursday**:  Radiation testing Design Creation
+* **Friday**: Meeting, Rad Plan, Benchmark (NOELV)
+
+### Week 12: August 6, 2021
+
+Goals: Software benchmarks
+
+* **Monday**:  Radiation test prep
+* **Tuesday**: L3, BAE meetings
+* **Wednesday**:  Radiation test prep
+* **Thursday**: L3
+* **Friday**: Meeting, Rad Plan, Benchmark (NOELV)
+
 ### Week 11: July 30, 2021
 
 Goals: Software benchmarks
